@@ -3,7 +3,7 @@
 <p align="center">
   </hr>----------------------------------------------------
 </p>
-<p> 🔭 I'm a full-stack developer currently working on MISA JSC, Hanoi, Vietnam </p>
+<p> 🔭 I'm a Web developer currently working on MISA JSC, Hanoi, Vietnam </p>
 <p style="font-style:italic"> 🔭<b> Related in SQL Server, PostGreeSQL, (C#).Net, Vuejs, JS, HTML</b> </p>
 <p> 🌱 I’m currently learning about ML, AI ... in MSE program. </p>
 Please dm me at frvalov3@gmail.com to get in touch. Thanks!
